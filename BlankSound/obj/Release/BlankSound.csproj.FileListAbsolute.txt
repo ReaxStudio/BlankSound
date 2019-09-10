@@ -1,0 +1,11 @@
+D:\Projects\BlankSound\BlankSound\bin\Release\BlankSound.exe.config
+D:\Projects\BlankSound\BlankSound\bin\Release\BlankSound.exe
+D:\Projects\BlankSound\BlankSound\bin\Release\BlankSound.pdb
+D:\Projects\BlankSound\BlankSound\bin\Release\NAudio.dll
+D:\Projects\BlankSound\BlankSound\bin\Release\Topshelf.dll
+D:\Projects\BlankSound\BlankSound\bin\Release\NAudio.xml
+D:\Projects\BlankSound\BlankSound\bin\Release\Topshelf.xml
+D:\Projects\BlankSound\BlankSound\obj\Release\BlankSound.csproj.CoreCompileInputs.cache
+D:\Projects\BlankSound\BlankSound\obj\Release\BlankSound.csproj.CopyComplete
+D:\Projects\BlankSound\BlankSound\obj\Release\BlankSound.exe
+D:\Projects\BlankSound\BlankSound\obj\Release\BlankSound.pdb
